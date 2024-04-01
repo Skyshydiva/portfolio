@@ -1,0 +1,20 @@
+[
+    
+    {
+        "title": "Responsive Card Design",
+        "imageSrc": "projects/card.png",
+        "description": "This is a project designed to change image quality based on the size of the user's device. The first card uses resolution switching, while the second card uses art-direction.",
+        "skills": ["HTML", "CSS", "JS"],
+        "demo": "https://people.rit.edu/~smc9253/252/card/mobile.html",
+        "source": "https://www.github.com"
+    },
+
+    {
+        "title": "Top 10 Places to Eat",
+        "imageSrc": "projects/10Places.png",
+        "description": "This is a project designed to show the user the top 10 highly rated places to eat in Rochester. This website uses localStorage and cookies to save the user's previous likes.",
+        "skills": ["HTML", "CSS", "JS"],
+        "demo": "https://people.rit.edu/~smc9253/252/webapp/start.html",
+        "source": "https://github.com/Skyshydiva/top-10-eat"
+    }
+]
