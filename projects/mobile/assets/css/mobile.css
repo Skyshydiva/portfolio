@@ -1,0 +1,230 @@
+/*
+set font-size to rem
+
+img {
+    max-width: 100%;
+}
+---------------------------------------
+CLASS
+
+body {
+    box-sizing: border-box;
+}
+
+.vid_wrap {
+    aspect-ratio: 16/9;
+    width: 86%;
+}
+
+@media screen and (min-width: 600px) {
+    nav ul {
+        flex-direction: row;
+    }
+}
+
+*/
+
+/* nav ul {
+    display: flex;
+    list-style: none;
+    float: right;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+nav li:not(:nth-child(1)) {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+} */
+
+/* nav li:not(.hidden){
+    background-color: black;
+} */
+/* 
+nav li:hover:not(:nth-child(1)){
+    background-color: #E0889D;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+} */
+
+
+
+/*.dropdown is the class of list that stores dropdown menu. 
+Only when it is hovered over should it show the other dropdown menus below it. */
+/* .dropdown:hover .hidden{
+    display: block;
+}
+
+nav li, .expandDrop {
+    display: inline-block;
+}
+
+.logo-title {
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+.hidden a {
+    display: block;
+    width: 100%;
+}
+
+.hidden a:hover {
+    background-color: #E0889D;
+} */
+/* 
+.icon {
+    background-color: #FB164C;
+    padding: 3px 10px;
+    border-radius: 100%;
+    position: relative;
+}
+
+
+.topnav:not(.responsive) li:not(:nth-child(1)) {
+    display: none;
+}
+
+.topnav.responsive {
+    display: flex;
+    flex-direction: column;
+}
+
+#writtenlogo {
+    color: white;
+    width: 30%;
+    position: absolute;
+    top: 0px;
+} */
+
+/*---------------------------------*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: #FFB5C6;
+  color: #272727;
+  font-family: 'Luckiest Guy', serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+  padding: 1rem;
+}
+
+p {
+  font-family: 'Lodrina Solid', serif;
+}
+
+.main{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.btn {
+  background-color: #FB164C;
+  color: #ffffff;
+  margin: auto;
+  padding: 0.8rem;
+  font-size: 14px;
+  font-family: 'Luckiest Guy', serif;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-weight: 400;
+  display: block;
+  width: 50%;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.btn:hover {
+  background-color: #ef6a89;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cards_item {
+  display: flex;
+  padding: 1rem;
+}
+
+
+@media (min-width: 840px) {
+  .cards_item {
+    width: 50%;
+  }
+  .card_text{
+    column-count: 2;
+  }
+}
+
+.card {
+  background-color: white;
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card_content {
+  padding: 1rem;
+  background: #FFE2E9;
+}
+
+.card_title {
+  color: black;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  text-align: center;
+  margin: 0px;
+}
+
+.card_text {
+  color: black;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;    
+  font-weight: 400;
+  text-align: center;
+}
+.made_by{
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 35px;
+  text-align: center;
+}

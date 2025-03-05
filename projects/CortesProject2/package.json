@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "cortesproject2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,13 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@fontsource/anton": "^5.0.19",
-    "@fontsource/outfit": "^5.0.12",
-    "@fontsource/poppins": "^5.0.12",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/anta": "^5.0.1",
     "@fontsource/roboto": "^5.0.12",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/material": "^5.15.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.26.2"
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",

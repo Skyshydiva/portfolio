@@ -12,11 +12,35 @@
         "imageSrc": "skills/js.png"
     },
     {
+        "title": "PHP",
+        "imageSrc": "skills/php.png"
+    },
+    {
+        "title": "Flutter",
+        "imageSrc": "skills/flutter.png"
+    },
+    {
         "title": "React",
         "imageSrc": "skills/react.png"
     },
     {
+        "title": "C#",
+        "imageSrc": "skills/c.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
+    },
+    {
         "title": "Figma",
         "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Photoshop",
+        "imageSrc": "skills/ps.png"
+    },
+    {
+        "title": "Illustrator",
+        "imageSrc": "skills/illustrator.png"
     }
 ]
