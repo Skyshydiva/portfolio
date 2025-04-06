@@ -1,6 +1,6 @@
 <?php
-	$fildir='rest/';
-	$page='Rest';
+	$fildir='feedback/';
+	$page='Feedback';
 	$path='../';
 	require ($path.'assets/inc/header.php');
 ?>
@@ -10,7 +10,7 @@
 ?>
 	<?php
 
-		require $path.'../../dbConnect.inc'; 
+	require $path.'../../dbConnect.inc';
 	
 	//internal CSS
 	$sql = "SELECT CSS_Internal FROM modularSite where page='$page'";

@@ -10,7 +10,7 @@
 ?>
 	<?php
 
-        require $path.'../../dbConnect.inc'; 
+	require $path.'../../dbConnect.inc';
 	
 	//internal CSS
 	$sql = "SELECT CSS_Internal FROM modularSite where page='$page'";

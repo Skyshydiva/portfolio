@@ -5,7 +5,7 @@
         "imageSrc": "projects/card.png",
         "description": "This is a project designed to change image quality based on the size of the user's device. The first card uses resolution switching, while the second card uses art-direction.",
         "skills": ["HTML", "CSS", "JS"],
-        "demo": "../../projects/mobile/mobile.html",
+        "demo": "/projects/mobile/mobile.html",
         "source": "https://github.com/Skyshydiva/portfolio/tree/main/projects/mobile"
     },
 
@@ -14,7 +14,7 @@
         "imageSrc": "projects/10Places.png",
         "description": "This is a project designed to show the user the top 10 highly rated places to eat in Rochester. This website uses localStorage and cookies to save the user's previous likes.",
         "skills": ["HTML", "CSS", "JS"],
-        "demo": "../../projects/top-10-eat/start.html",
+        "demo": "/projects/top-10-eat/start.html",
         "source": "https://github.com/Skyshydiva/top-10-eat"
     },
 
@@ -23,7 +23,7 @@
         "imageSrc": "projects/bc.png",
         "description": "This project involves creating a 10-page website about a place I’ve lived or visited. All of the content and styling are included in the database back-end, and PHP is used to retrieve that data. The site includes six content pages about the location, with at least one featuring a slideshow, plus a contact or about page, a form page with functional checkboxes and radio buttons, a page explaining how the project meets grading criteria, and a references page. Built using PHP and CSS3, the site emphasizes strong content organization, clear navigation, and a professional design to enhance the user experience.",
         "skills": ["PHP", "HTML", "CSS", "JS" ],
-        "demo": "../../projects/Modular_Project/home/index.php",
+        "demo": "/projects/Modular_Project/home/index.php",
         "source": "https://github.com/Skyshydiva/portfolio/tree/main/projects/Modular_Project"
     },
 
@@ -32,7 +32,7 @@
         "imageSrc": "projects/iSchool.png",
         "description": "This project creates a professional web presence for the iSchool by consuming data from an API to display information about programs, employment, and people. It features dynamic data fetching, interactive UI components, and an innovative, user-friendly design to enhance the experience.",
         "skills": ["HTML", "CSS", "React"],
-        "demo": "../../projects/CortesProject2/",
+        "demo": "/projects/CortesProject2/",
         "source": "https://github.com/Skyshydiva/portfolio/tree/main/projects/CortesProject2"
     }
 
