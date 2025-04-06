@@ -6,7 +6,7 @@
         "description": "This is a project designed to change image quality based on the size of the user's device. The first card uses resolution switching, while the second card uses art-direction.",
         "skills": ["HTML", "CSS", "JS"],
         "demo": "/projects/mobile/mobile.html",
-        "source": "https://github.com/Skyshydiva/portfolio/tree/main/projects/mobile"
+        "source": "https://github.com/Skyshydiva/portfolio/tree/main/public/projects/mobile"
     },
 
     {
@@ -24,7 +24,7 @@
         "description": "This project involves creating a 10-page website about a place I’ve lived or visited. All of the content and styling are included in the database back-end, and PHP is used to retrieve that data. The site includes six content pages about the location, with at least one featuring a slideshow, plus a contact or about page, a form page with functional checkboxes and radio buttons, a page explaining how the project meets grading criteria, and a references page. Built using PHP and CSS3, the site emphasizes strong content organization, clear navigation, and a professional design to enhance the user experience.",
         "skills": ["PHP", "HTML", "CSS", "JS" ],
         "demo": "/projects/Modular_Project/home/index.php",
-        "source": "https://github.com/Skyshydiva/portfolio/tree/main/projects/Modular_Project"
+        "source": "https://github.com/Skyshydiva/portfolio/tree/main/public/projects/Modular_Project"
     },
 
     {
@@ -33,7 +33,7 @@
         "description": "This project creates a professional web presence for the iSchool by consuming data from an API to display information about programs, employment, and people. It features dynamic data fetching, interactive UI components, and an innovative, user-friendly design to enhance the experience.",
         "skills": ["HTML", "CSS", "React"],
         "demo": "/projects/CortesProject2/",
-        "source": "https://github.com/Skyshydiva/portfolio/tree/main/projects/CortesProject2"
+        "source": "https://github.com/Skyshydiva/portfolio/tree/main/public/projects/CortesProject2"
     },
 
     {
@@ -42,7 +42,7 @@
         "description": "A secure PHP web application that allows ISTE341 Company to track bugs across multiple projects, assign them to users, and manage progress. Includes role-based access for Admins, Managers, and Users. Features hashed passwords, session-based login/logout, prepared SQL statements for all queries, and structured project/bug/user admin functionality. Emphasizes secure, organized, and maintainable code with server-side validation.",
         "skills": ["PHP", "SQL", "HTML", "CSS"],
         "demo": "/projects/bug-tracker/public/",
-        "source": "https://github.com/Skyshydiva/portfolio/tree/main/projects/bug-tracker"
+        "source": "https://github.com/Skyshydiva/portfolio/tree/main/public/projects/bug-tracker"
     }
     
     
